@@ -1,3 +1,3 @@
 <div class="text-xl">
-  Filament <span class="text-primary-500 font-medium">Starter</span>
+  здесь<span class="text-primary-500 font-bold text-4xl">Я</span>власть
 </div>
